@@ -52,5 +52,10 @@
       "app": "dist",
       "output": "build"
     }
+  },
+  "dependencies": {
+    "clamp": "^1.0.1",
+    "lodash.throttle": "^4.1.1",
+    "tinycolor2": "^1.4.2"
   }
 }
